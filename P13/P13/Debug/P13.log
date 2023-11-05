@@ -1,0 +1,3 @@
+﻿  P13.cpp
+d:\程式設計功課\ch3-1\p13\p13\p13.cpp(7): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  P13.vcxproj -> D:\程式設計功課\CH3-1\P13\Debug\P13.exe
